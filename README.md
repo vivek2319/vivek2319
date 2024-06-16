@@ -18,6 +18,7 @@
 
 ---
 <div align="center">
+  
 ### :fire: My Stats :
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vivek2319&theme=tokyonight&date_format=j%20M%5B%20Y%5D&card_width=510&card_height=210)](https://git.io/streak-stats)
@@ -25,10 +26,16 @@
 </div>
 
 </br>
+---
+<div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vivek2319&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+</div>
+
+
 ---
+
 <div align="center">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/219bcc70-f5dc-466b-9a60-29653d8e8433" width="600"/>
 </div>
