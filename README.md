@@ -16,7 +16,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=vivek2319&theme=onedark)](https://github.com/vivek2319/github-profile-trophy)
 
----
+
 <div align="center">
   
 ### :fire: My Stats :
@@ -25,8 +25,6 @@
 
 </div>
 
-</br>
----
 <div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vivek2319&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
@@ -34,13 +32,10 @@
 </div>
 
 
----
 
 <div align="center">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/219bcc70-f5dc-466b-9a60-29653d8e8433" width="600"/>
 </div>
-
----
 
 
 
