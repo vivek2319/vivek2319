@@ -33,7 +33,7 @@
 
 ---
 
-<iframe src="https://giphy.com/embed/908pc2O6Tf78Y" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hope-stephen-king-the-shawshank-redemption-908pc2O6Tf78Y">via GIPHY</a></p>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/219bcc70-f5dc-466b-9a60-29653d8e8433" width="500">
 
 
 
