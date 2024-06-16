@@ -1,15 +1,17 @@
-### Hi there 👋 Welcome to my Github Profile
+<h2 style="text-align: center;">Hi there 👋 Welcome to my Github Profile</p>
+
 </br>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 </br>
-<div id="badges">
-  <a href="[your-linkedin-URL](https://www.linkedin.com/in/vivekkuldataeng/)">
+<div id="badges" align="center">
+  <a href="[LinkedIn](https://www.linkedin.com/in/vivekkuldataeng/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
 
+</br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=vivek2319&theme=onedark)](https://github.com/vivek2319/github-profile-trophy)
 
 <!--
