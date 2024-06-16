@@ -17,6 +17,10 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=vivek2319&theme=onedark)](https://github.com/vivek2319/github-profile-trophy)
 
+</br>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vivek2319&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
 <!--
 **vivek2319/vivek2319** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
