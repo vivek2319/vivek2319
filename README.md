@@ -19,13 +19,13 @@
 
 </br>
 
+### 🔥 My Stats
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vivek2319&theme=tokyonight&date_format=j%20M%5B%20Y%5D&card_width=510&card_height=210)](https://git.io/streak-stats)
 
 </br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vivek2319&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
 
 
 <!--
