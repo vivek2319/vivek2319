@@ -1,5 +1,7 @@
 ## Hi there 👋 Welcome to my Github Profile
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 [![trophy](https://github-profile-trophy.vercel.app/?username=vivek2319&theme=onedark)](https://github.com/vivek2319/github-profile-trophy)
 
 
