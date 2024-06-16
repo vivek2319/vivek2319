@@ -1,4 +1,4 @@
-<h2 style="text-align: center;">Hi there 👋 Welcome to my Github Profile</p>
+## Hi there 👋 Welcome to my Github Profile
 
 </br>
 <div id="header" align="center">
@@ -12,6 +12,7 @@
 </div>
 
 </br>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=vivek2319&theme=onedark)](https://github.com/vivek2319/github-profile-trophy)
 
 <!--
