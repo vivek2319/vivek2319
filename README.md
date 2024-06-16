@@ -26,14 +26,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vivek2319&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-
 <div align="center">
-  <img src="https://media.giphy.com/media/hope-stephen-king-the-shawshank-redemption-908pc2O6Tf78Y/giphy.gif" width="600" height="300"/>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/219bcc70-f5dc-466b-9a60-29653d8e8433" width="600" height="300"/>
 </div>
-
 ---
-
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/219bcc70-f5dc-466b-9a60-29653d8e8433" width="500">
 
 
 
