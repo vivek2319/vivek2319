@@ -25,6 +25,12 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vivek2319&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+---
+<div align="center">
+  <img src="[https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif](https://giphy.com/gifs/stephen-king-tim-robbins-shawshank-redemption-14oEyAEW6hyUus)" width="600" height="300"/>
+</div>
+
+
 
 <!--
 **vivek2319/vivek2319** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
