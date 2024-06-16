@@ -5,8 +5,8 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 </br>
-<div id="badges" align="center">
-  <a href="[LinkedIn](https://www.linkedin.com/in/vivekkuldataeng/)">
+<div id="badges">
+  <a href="[your-linkedin-URL](https://www.linkedin.com/in/vivekkuldataeng/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     <img src="https://komarev.com/ghpvc/?username=vivek2319&style=flat-square&color=blue" alt=""/>
   </a>
