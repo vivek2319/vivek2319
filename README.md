@@ -1,6 +1,5 @@
 ## Hi there 👋 Welcome to my Github Profile
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=vivek2319)](https://github.com/vivek2319/github-profile-trophy)
 [![trophy](https://github-profile-trophy.vercel.app/?vivek2319=ryo-ma&theme=onedark)](https://github.com/vivek2319/github-profile-trophy)
 
 <!--
