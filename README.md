@@ -26,9 +26,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vivek2319&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
+
 <div align="center">
-  <img src="[https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif](https://giphy.com/gifs/stephen-king-tim-robbins-shawshank-redemption-14oEyAEW6hyUus)" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/hope-stephen-king-the-shawshank-redemption-908pc2O6Tf78Y/giphy.gif" width="600" height="300"/>
 </div>
+
 
 
 
