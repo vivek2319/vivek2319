@@ -18,13 +18,9 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=vivek2319&theme=onedark)](https://github.com/vivek2319/github-profile-trophy)
 
 </br>
-_____________________________________________________________________________________________________________________________________
-</br>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vivek2319&theme=tokyonight&date_format=j%20M%5B%20Y%5D&card_width=510&card_height=210)](https://git.io/streak-stats)
 
-</br>
-_____________________________________________________________________________________________________________________________________
 
 
 <!--
