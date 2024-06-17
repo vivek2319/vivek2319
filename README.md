@@ -3,6 +3,7 @@
 </div>
 </br>
 <h1 align="center">Hi 👋, I'm Vivek Kulkarni</h1>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <h3 align="center">A passionate Big Data & Cloud Enthusiast </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivek2319&label=Profile%20views&color=0e75b6&style=flat" alt="vivek2319" /> </p>
