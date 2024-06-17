@@ -6,10 +6,6 @@
 <h1 align="center">Hi 👋, I'm Vivek Kulkarni</h1>
 <h3 align="center">A passionate Big Data & Cloud Enthusiast </h3>
 
-<div align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fvivek2319%2Fvivek2319&label=VISITORS&labelColor=%23000&countColor=%230A0209" />
-</div>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivek2319&label=Profile%20views&color=0e75b6&style=flat" alt="vivek2319" /> </p>
 
 <p align="left"> <a href="https://github.com/vivek2319/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vivek2319" alt="vivek2319" /></a> </p>
