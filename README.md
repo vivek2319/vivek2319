@@ -4,7 +4,7 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <h1 align="center">Hi 👋, I'm Vivek Kulkarni</h1>
-<h3 align="center">A passionate Big Data & Cloud Enthusiast </h3>
+<h3 align="center">A Passionate Problem Solver & Cloud Enthusiast </h3>
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vivekkuldataeng/)
 
